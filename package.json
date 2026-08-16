@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugin-desktop-installer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "在设置中添加按地址安装插件（可选 web/desktop profile）并一键重启 Desktop 的界面",
   "license": "MIT",
   "type": "module",
@@ -21,7 +21,8 @@
     "client": {
       "platform": "web",
       "inject": [
-        "@deepseek-ai/dsh-client-ui-slots"
+        "@deepseek-ai/dsh-client-ui-slots",
+        "@deepseek-ai/dsh-client-ui-primitives"
       ]
     }
   }

@@ -10,7 +10,7 @@
 ## 安装
 
 ```sh
-dsh plugin --profile desktop add github:OWNER/REPO
+dsh plugin --profile desktop add github:deronghe/dsh-plugin-desktop-installer
 ```
 
 地址支持两种格式：

@@ -1,0 +1,3 @@
+- insert:
+    - id: desktop-installer
+      name: dsh-plugin-desktop-installer

@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugin-desktop-installer",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "在设置中添加按地址安装插件（可选 web/desktop profile）、第三方插件管理（启用/停用/卸载/版本检测更新）并一键重启 Desktop 的界面",
   "license": "MIT",
   "type": "module",
